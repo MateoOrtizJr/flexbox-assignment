@@ -72,3 +72,5 @@ width: 33.333%;
 .box10 {
 width: 33.333%;
 }
+
+@media (screen and (max-width 480px)){}
